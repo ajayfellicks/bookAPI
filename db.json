@@ -4,15 +4,15 @@
       "id": "1",
       "title": "Harry Potter",
       "author": "J. K. Rowling",
-      "isbn-number": "9780807286005",
-      "publication-date": "26 June 1997"
+      "isbnNumber": "9780807286005",
+      "publicationDate": "26 June 1997"
     },
     {
       "id": "2",
       "title": "lord of the rings",
       "author": "John Ronald Reuel Tolkien",
-      "isbn-number": "9788845292613",
-      "publication-date": "29 July 1954"
+      "isbnNumber": "9788845292613",
+      "publicationDate": "29 July 1954"
     }
   ]
 }
